@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuickBite</string>
+    <string name="burgerDesc">-> this mis a burgur</string>
+
+    <string name="pizzaDesc">-> this is a pizza</string>
+
+    <string name="noodelsDesc">-> maggi khao body banao</string>
+
+    <string name="pastaDesc">-> paste ka nasta karo lo guys/string</string>
+
+    <string name="maggieDesc">-> maggiiiiii in 2 min</string>
+
+    <string name="cakeDesc">-> Ais a cake</string>
+
+    <string name="pancakeDesc">-> Ais a pancake</string>
+
+
+
+
+
+    <string name="recipe_name">Recipe Name</string>
+    <string name="todo">TODO</string>
+    <string name="descriptioninfo">Pizza base-2, small, sweet corn-1/2 cup (boiled), black pepper-few pinch, mozzarella cheese 50 to 100 grams, oregano-1/2 tablespoon, tomato sauce 2 tablespoons, mayonnaise-4 tablespoons, salt to taste and Butter-1 teaspoon</string>
+</resources>
